@@ -21,7 +21,7 @@ I recently added a searchbar.
 
 What it does:
 
-Automatic Scanning: Clicks through all departures and collects data.
+Automatic Scanning: Clicks through all departures and collects data. After that you can download the results as an HTML file.
 
 EVN Collection: Extracts vehicle numbers for all train parts.
 
